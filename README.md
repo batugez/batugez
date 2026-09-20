@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Batuhan 👋
 
-<!--
-**batugez/batugez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a chemist learning to code, working through Python and cheminformatics
+side by side. My background is in the wet lab — I trained at an ISO/IEC
+17025 accredited testing laboratory, where I learned that a result is only
+as good as the process behind it. Now I'm curious what that same rigour
+looks like applied to chemical data.
 
-Here are some ideas to get you started:
+This profile is a learning log. Expect small, rough projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+- BSc Chemistry
+- Analytical testing experience in an ISO/IEC 17025 environment
+- HACCP Level 2 · FAAC · COSHH · Laboratory Safety Assessment
+
+### Get in touch
+www.linkedin.com/in/batuhan-gezicioglu
